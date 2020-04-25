@@ -1,0 +1,3 @@
+
+SELECT FirstName, LastName, City, State FROM PERSON LEFT JOIN ADDRESS 
+ON PERSON.PersonId = ADDRESS.PersonId
