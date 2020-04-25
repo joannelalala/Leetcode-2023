@@ -1,2 +1,2 @@
 # Leetcode
-Record my Leetcode practice
+Record my Leetcode practice, including Python and SQL
