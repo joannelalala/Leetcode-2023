@@ -1,3 +1,6 @@
+# One-pass Hashtable
+# TC: O(N)
+# SC: O(N)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         d = {} # create a dict
